@@ -58,11 +58,14 @@ Instale as dependências necessárias:
 
 bash
 pip install pygame numpy
+
 Executando as Simulações
-**Ecossistema Microbiano:**
+
+## **Ecossistema Microbiano:**
 
 bash
 python EcoMicrobiano.py
+
 Controles:
 
 Espaço: Pausar/continuar
@@ -71,20 +74,22 @@ R: Reiniciar simulação
 
 Clique do mouse: Adicionar organismos
 
-**Dinâmica de Espécies:**
+## **Dinâmica de Espécies:**
 
 bash
 python DinamicaEspecies.py
+
 Controles:
 
 Espaço: Pausar/continuar
 
 R: Reiniciar
 
-**Gerador de Padrões:**
+## **Gerador de Padrões:**
 
 bash
 python GeradorPadroes.py
+
 Controles:
 
 Espaço: Pausar/continuar
@@ -94,7 +99,7 @@ R: Reiniciar
 S: Adicionar nova semente
 
 # Considerações Científicas
-Estes modelos oferecem uma estrutura flexível para:
+## Estes modelos oferecem uma estrutura flexível para:
 
 Estudos em ecologia teórica
 
