@@ -109,7 +109,7 @@ Análise de sistemas complexos
 
 Desenvolvimento de algoritmos bioinspirados
 
-Os códigos podem ser estendidos para incluir:
+## Os códigos podem ser estendidos para incluir:
 
 Mais espécies interagentes
 
